@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(49, 37, 44);  
+}
+.box{
+    border:1px groove black;
+    box-shadow: 0 0 60px 0 rgb(222, 66, 147);
+    background: linear-gradient(rgb(148, 41, 143),rgb(230, 87, 182),rgb(162, 18, 121));
+    height:300px;
+    width:400px;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+h1{
+    margin-top:10%;
+}
+#check{
+    margin-top: 10%;
+}
+#btn{
+    margin-top: 8%;
+    padding-left: 130px;
+}
